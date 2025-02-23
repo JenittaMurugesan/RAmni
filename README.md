@@ -1,7 +1,9 @@
 # ramni
 
 
-#LoginScreen
+
+<img src="screenshots/orderaccepted.png" alt="Login Screen" width="500" />
+
 <img src="screenshots/login.png" alt="Login Screen" width="500"/>
 <img src="screenshots/register.png" alt="Login Screen" width="500"/>
 <img src="screenshots/emailverify.png" alt="Login Screen"  width="500"/>
@@ -16,7 +18,6 @@
 <img src="screenshots/address.png" alt="Login Screen"  width="500"/>
 <img src="screenshots/addaddress.png" alt="Login Screen" width="500" />
 <img src="screenshots/checkout.png" alt="Login Screen"  width="500"/>
-<img src="screenshots/orderaccepted.png" alt="Login Screen" width="500" />
 
 
 
