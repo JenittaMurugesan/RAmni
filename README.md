@@ -1,4 +1,3 @@
 # ramni
 
-![LoginScreen](screenshots/login.png)
-<img src="screenshots/login" alt="Home Screen" width="500">
+<img src="screenshots/login.png" alt="Login Screen" width="500">
