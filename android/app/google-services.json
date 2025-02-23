@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "666043206452",
+    "project_id": "ramni-300f5",
+    "storage_bucket": "ramni-300f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666043206452:android:8baea32fbb58865023b361",
+        "android_client_info": {
+          "package_name": "com.example.ramni"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxZiAeCwSCfKFkHVxVljQWrEvFIZiU2sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
